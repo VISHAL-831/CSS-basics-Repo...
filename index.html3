@@ -1,0 +1,20 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>Desendent selector</title>
+    <style>
+    div p{color:red }
+        p{color:blue}
+    </style>
+</head>
+<body>
+<div>
+    
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non corporis assumenda illo placeat accusantium? Ad velit voluptates magnam sequi ducimus neque modi temporibus ea, asperiores harum beatae reprehenderit praesentium quibusdam non voluptatem quia facere. Tempora praesentium cum in sunt reprehenderit laboriosam rem quos veritatis enim animi. Quae itaque voluptate quibusdam ad a accusantium, laborum rerum ipsa vitae eaque quam sed perferendis. Nostrum eligendi, officia maiores esse architecto culpa adipisci ducimus cumque perspiciatis a odit quidem illum eaque molestias aperiam. Repellat, recusandae sunt vero perferendis quae placeat velit libero ut et asperiores vitae laudantium assumenda modi iusto tempora illum nisi exercitationem?</p>
+    
+    </div>
+    <p>lorem30</p>
+        
+</body>
+</html>
